@@ -96,7 +96,7 @@ MIT License - Feel free to use this project for learning and development.
 **Arnau Ropero**
 - Smart Cities Engineering Student at UAB
 - GitHub: [@arnauropero](https://github.com/arnauropero)
-- LinkedIn: [arnau-ropero-garcia](https://linkedin.com/in/arnau-ropero-garcia)
+- LinkedIn: [arnau-ropero-garcia](https://linkedin.com/in/arnau-ropero)
 
 ## 🙏 Acknowledgments
 
